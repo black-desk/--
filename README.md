@@ -2,7 +2,9 @@
 
 ```bash
 git clone https://github.com/black-desk/lsp-position-test
+cd lsp-position-test
 go build
+nvim ./README.md
 ```
 
 a𐐀b
