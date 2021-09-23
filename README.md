@@ -13,4 +13,4 @@ a𐐀b
 
 https://microsoft.github.io/language-server-protocol/specifications/specification-current/#textDocuments
 
-But hover on b, coc report a Position with Character equals 2.
+Do hover on `b`, then coc will report a Position with Character equals 2.
