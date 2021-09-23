@@ -1,7 +1,7 @@
 {
     "languageserver": {
         "demo": {
-            "command": "./position-test-lsp",
+            "command": "./lsp-position-test",
             "filetypes": [
                 "markdown"
             ]
